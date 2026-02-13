@@ -23,8 +23,8 @@ const MemoryScreen = forwardRef<HTMLElement, MemoryScreenProps>(
     >([]);
 
     const defaultPhotos = [
-      { src: "/memory/memory-1.jpeg", date: "2025-11-26" },
-      { src: "/memory/memory-2.jpeg", date: "2025-09-20" },
+      { src: "/memory/memory-1.jpeg", date: "2024-05-26" },
+      { src: "/memory/memory-2.jpeg", date: "2024-11-20" },
       { src: "/memory/memory-3.jpeg", date: "2025-11-18" },
       { src: "/memory/memory-4.jpeg", date: "2025-10-10" },
       { src: "/memory/memory-5.jpeg", date: "2025-11-19" },
