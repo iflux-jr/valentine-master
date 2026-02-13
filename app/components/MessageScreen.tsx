@@ -12,7 +12,7 @@ const MessageScreen = forwardRef<HTMLElement>(function MessageScreen(_, ref) {
   const letterRef = useRef<HTMLDivElement>(null);
   const textRef = useRef<HTMLParagraphElement>(null);
 
-  const messageText = `Ima,
+  const messageText = `Kimbally,
 
 I love the way your smile brightens my day.
 Even your little quirks make me fall for you more.
