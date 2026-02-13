@@ -16,8 +16,6 @@ const MessageScreen = forwardRef<HTMLElement>(function MessageScreen(_, ref) {
 
 I love the way your smile changes my whole mood 😊
 It’s like everything feels lighter the moment I see it.
-I love your little quirks, your shy moments, and even your dramatic ones 😂💕
-They make you you, and I wouldn’t change a single thing.
 Being with you feels safe and exciting at the same time.
 Like I’ve found my favorite place and my favorite adventure in one person 🌹
 You make ordinary days feel special, and simple conversations feel important.
