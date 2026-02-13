@@ -15,19 +15,19 @@ interface Gift {
 const gifts: Gift[] = [
   {
     id: 1,
-    title: "Dinner Date",
-    emoji: "🍽️",
+    title: "Cozy Dinner In",
+    emoji: "🍲",
     content:
-      "A dinner reservation for you and me — just us, good food, and uninterrupted time together.",
+      "A homemade dinner for just us — soft music playing, no distractions, just laughter, good food, and you across from me.",
     color: "from-pink-400 to-rose-500",
     ribbonColor: "bg-rose-600",
   },
   {
     id: 2,
-    title: "Movie Date",
-    emoji: "🎞️",
+    title: "Movie Night",
+    emoji: "🎬",
     content:
-      "A movie ticket for a film of your choice, plus my full attention (even if I pretend to watch).",
+      "A movie of your choice, blankets everywhere, lights dimmed, and me pretending to focus while I’m actually focused on you.",
     color: "from-red-400 to-pink-500",
     ribbonColor: "bg-pink-600",
   },
@@ -42,10 +42,10 @@ const gifts: Gift[] = [
   },
   {
     id: 4,
-    title: "Tour of Uyo",
-    emoji: "🚘",
+    title: "Living Room Adventure",
+    emoji: "🛋️",
     content:
-      "A full tour of Uyo with me — stops, laughs, and memories included.",
+      "Turning an ordinary evening into something special — music, dancing in the living room, random talks, and memories made indoors.",
     color: "from-pink-500 to-rose-600",
     ribbonColor: "bg-rose-700",
   },
