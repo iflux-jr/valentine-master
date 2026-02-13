@@ -48,7 +48,7 @@ const SecondScreen = forwardRef<HTMLElement>(function SecondScreen(_, ref) {
           onMouseLeave={() => setIsPlaying(false)}
         >
           <iframe
-            src="https://open.spotify.com/playlist/4or8AmE4BYpXbeORMnLPAE?utm_source=generator&theme=0"
+            src="https://open.spotify.com/playlist/4or8AmE4BYpXbeORMnLPAE"
             width="100%"
             height="352"
             style={{ borderRadius: "12px" }}
