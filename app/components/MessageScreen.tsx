@@ -14,13 +14,16 @@ const MessageScreen = forwardRef<HTMLElement>(function MessageScreen(_, ref) {
 
   const messageText = `Kimbally,
 
-I love the way your smile brightens my day.
-Even your little quirks make me fall for you more.
-I love laughing with you, talking with you, just being with you.
-Every moment with you feels like my favorite song.
-I hope this letter makes you smile, just like you make me smile every day. 💖
-You're my favorite thought, my safe place, my joy.
-I just wanted to say… I really love you. 🌹`;
+I love the way your smile changes my whole mood 😊
+It’s like everything feels lighter the moment I see it.
+I love your little quirks, your shy moments, and even your dramatic ones 😂💕
+They make you you, and I wouldn’t change a single thing.
+Being with you feels safe and exciting at the same time.
+Like I’ve found my favorite place and my favorite adventure in one person 🌹
+You make ordinary days feel special, and simple conversations feel important.
+Just hearing your voice or seeing your name on my phone makes me smile ❤️
+I hope this makes you pause for a second and feel how loved you are.
+Because I really, truly love you 💖`;
 
   const setupAnimation = useCallback(() => {
     if (!textRef.current) return;
