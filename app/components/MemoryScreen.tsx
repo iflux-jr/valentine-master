@@ -25,16 +25,16 @@ const MemoryScreen = forwardRef<HTMLElement, MemoryScreenProps>(
     const defaultPhotos = [
       { src: "/memory/memory-1.jpeg", date: "2024-05-26" },
       { src: "/memory/memory-2.jpeg", date: "2024-11-20" },
-      { src: "/memory/memory-3.jpeg", date: "2025-11-18" },
+      { src: "/memory/memory-3.jpeg", date: "2025-05-22" },
       { src: "/memory/memory-4.jpeg", date: "2025-10-10" },
-      { src: "/memory/memory-5.jpeg", date: "2025-11-19" },
-      { src: "/memory/memory-6.jpeg", date: "2025-11-19" },
-      { src: "/memory/memory-7.jpeg", date: "2025-10-13" },
-      { src: "/memory/memory-8.jpeg", date: "2025-11-21" },
-      { src: "/memory/memory-9.jpeg", date: "2025-09-22" },
-      { src: "/memory/memory-10.jpeg", date: "2025-11-19" },
-      { src: "/memory/memory-11.jpeg", date: "2026-01-07" },
-      { src: "/memory/memory-12.jpeg", date: "2025-12-15" },
+      { src: "/memory/memory-5.jpeg", date: "2025-05-22" },
+      { src: "/memory/memory-6.jpeg", date: "2025-01-07" },
+      { src: "/memory/memory-7.jpeg", date: "2025-01-07" },
+      { src: "/memory/memory-8.jpeg", date: "2025-01-07" },
+      { src: "/memory/memory-9.jpeg", date: "2025-05-22" },
+      { src: "/memory/memory-10.jpeg", date: "2025-01-07" },
+      { src: "/memory/memory-11.jpeg", date: "2025-01-07" },
+      { src: "/memory/memory-12.jpeg", date: "2023-07-15" },
     ];
 
     const memoryPhotos = photos.length ? photos : defaultPhotos;

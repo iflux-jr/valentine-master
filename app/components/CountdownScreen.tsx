@@ -86,7 +86,7 @@ const CountdownScreen = forwardRef<HTMLElement>(
       if (!mounted) return;
 
       // Set your anniversary date here (when you first met/started dating)
-      const anniversaryDate = new Date("2025-09-17T06:20:50").getTime();
+      const anniversaryDate = new Date("2023-09-17T06:20:50").getTime();
 
       const calculateTimeElapsed = () => {
         const now = new Date().getTime();
